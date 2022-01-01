@@ -12,3 +12,4 @@ let tax = 0.13
 var split:Double = 0
 split = (subtotal * (1 + tax))/people
 print(split)
+
