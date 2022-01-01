@@ -1,0 +1,22 @@
+// 2021-11-24
+
+import UIKit
+
+func myFunc(a:Int, b:Int = 0) -> Int {
+    
+    
+    
+    return a+b
+  
+}
+
+let mySum = myFunc(a: 5)
+print(mySum)
+
+func myFunc(firstNumber a:Int, secondNumber b:Int = 0) -> Int {
+    
+    
+    
+    return a+b
+  
+}
